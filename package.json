@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@radix-ui/react-tabs": "^1.1.9",
+    "lovable-tagger": "^1.1.8",
     "path": "^0.12.7",
     "tailwind-merge": "^3.2.0"
   }

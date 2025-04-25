@@ -14,7 +14,7 @@ npm run dev
 To build the project:
 
 ```bash
-npm run build
+npm run build:dev
 ```
 
 ## Features
